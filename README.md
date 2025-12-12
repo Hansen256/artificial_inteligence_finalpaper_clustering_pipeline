@@ -1,6 +1,6 @@
 # Customer Segmentation Using Clustering
 
-A comprehensive machine learning project for segmenting e-commerce customers using clustering algorithms (K-Means and DBSCAN) to enable targeted marketing strategies.
+A machine learning project for segmenting e-commerce customers using clustering algorithms (K-Means and DBSCAN) to enable targeted marketing strategies.
 
 ## Objective
 
